@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "part_type": "frame",
+    "part_sku": "steel-1",
+    "brand": "Mexicalli",
+    "part_name": "El Macho",
+    "description": "The El Macho is a real manly man's bike.",
+    "price": "$700",
+    "avg_rating": 3.3
+  },
+  {
+    "id": 2,
+    "part_type": "frame",
+    "part_sku": "tit-1",
+    "brand": "Toolshed",
+    "part_name": "The Hammer",
+    "description": "The nails that sticks out gets The Hammer",
+    "price": "$400",
+    "avg_rating": 3.3
+  },
+  {
+    "id": 3,
+    "part_type": "frame",
+    "part_sku": "alum-2",
+    "brand": "Ant Army",
+    "part_name": "Bring It Down",
+    "description": "Lets Bring it down a notch.",
+    "price": "$1,000",
+    "avg_rating": 2.2
+  },
+  {
+    "id": 4,
+    "part_type": "frame",
+    "part_sku": "carbon-3",
+    "brand": "Underdog",
+    "part_name": "Fire Fights",
+    "description": "With the Fire Fights, you will always win.",
+    "price": "$1,500",
+    "avg_rating": 2.6
+  },
+  {
+    "id": 5,
+    "part_type": "wheel",
+    "part_sku": "rt-c",
+    "brand": "Plain Van",
+    "part_name": "Rolling Thunder - Carbon",
+    "description": "Gotta roll with the carbon thunder",
+    "price": "$600",
+    "avg_rating": 2.5
+  },
+  {
+    "id": 6,
+    "part_type": "wheel",
+    "part_sku": "rt-a",
+    "brand": "Plain Van",
+    "part_name": "Rolling Thunder - Alum",
+    "description": "Gotta roll with the aluminum thunder.",
+    "price": "$300",
+    "avg_rating": 2.4
+  },
+  {
+    "id": 7,
+    "part_type": "wheel",
+    "part_sku": "sq-a",
+    "brand": "Squard Inc",
+    "part_name": "Sqaure Wheels",
+    "description": "Square wheels dont work.",
+    "price": "$50",
+    "avg_rating": 2.6
+  },
+  {
+    "id": 8,
+    "part_type": "shifter",
+    "part_sku": "shift-105",
+    "brand": "Shimano",
+    "part_name": "105 Shifters",
+    "description": "1 betters then the 104 shifters",
+    "price": "$200",
+    "avg_rating": 3.6
+  },
+  {
+    "id": 9,
+    "part_type": "shifter",
+    "part_sku": "shift-red",
+    "brand": "SRAM",
+    "part_name": "Red",
+    "description": "Rose are red. SRAM is better.",
+    "price": "$400",
+    "avg_rating": 2.7
+  },
+  {
+    "id": 10,
+    "part_type": "shifter",
+    "part_sku": "shift-yello",
+    "brand": "SRAM",
+    "part_name": "Yellow",
+    "description": "I thought it was suppoed to be red",
+    "price": "$500",
+    "avg_rating": 3
+  },
+  {
+    "id": 11,
+    "part_type": "rear_derailleur",
+    "part_sku": "rd-105-10",
+    "brand": "Shimano",
+    "part_name": "105 10-Speed",
+    "description": "Long cage or short cage? What is a cage?",
+    "price": "$75",
+    "avg_rating": 4.2
+  },
+  {
+    "id": 12,
+    "part_type": "rear_derailleur",
+    "part_sku": "rd-red-11",
+    "brand": "SRAM",
+    "part_name": "Red 11-Speed",
+    "description": "12 speed would be better",
+    "price": "$125",
+    "avg_rating": 3.7
+  },
+  {
+    "id": 13,
+    "part_type": "front_derailleur",
+    "part_sku": "fd-105-2",
+    "brand": "Shimano",
+    "part_name": "105 2x10",
+    "description": "I dont even want a front derailer...",
+    "price": "$55",
+    "avg_rating": 3.5
+  },
+  {
+    "id": 14,
+    "part_type": "front_derailleur",
+    "part_sku": "fd-yello-1",
+    "brand": "Sram",
+    "part_name": "Yellow 1x11",
+    "description": "Wait... You need a derailur for 1x11?",
+    "price": "$45",
+    "avg_rating": 2.8
+  },
+  {
+    "id": 15,
+    "part_type": "crank",
+    "part_sku": "cra-tiag-2",
+    "brand": "Shimano",
+    "part_name": "Tiagra 2x10",
+    "description": "Hollow bracket bottom or square taper?",
+    "price": "$120",
+    "avg_rating": 4.3
+  },
+  {
+    "id": 16,
+    "part_type": "crank",
+    "part_sku": "cra-red-32",
+    "brand": "Sram",
+    "part_name": "32 Tooth - Red",
+    "description": "Good thing it has wolf teeth.",
+    "price": "$120",
+    "avg_rating": 2.2
+  },
+  {
+    "id": 17,
+    "part_type": "handle bars",
+    "part_sku": "drop-bar-ritch",
+    "brand": "Ritchey",
+    "part_name": "Low-Haing Drop Bar",
+    "description": "Why not high bar?",
+    "price": "$80",
+    "avg_rating": 3.7
+  },
+  {
+    "id": 18,
+    "part_type": "handle bars",
+    "part_sku": "wtb-sta-bar",
+    "brand": "WTB",
+    "part_name": "Wide Flair Back Var",
+    "description": "Sounds like a great hair style.",
+    "price": "$60",
+    "avg_rating": 3
+  },
+  {
+    "id": 19,
+    "part_type": "brakes",
+    "part_sku": "p-vbreak",
+    "brand": "Paul",
+    "part_name": "Linear V Break",
+    "description": "Andy makse a elpitical brake... Probably better then linear",
+    "price": "$150",
+    "avg_rating": 2.8
+  },
+  {
+    "id": 20,
+    "part_type": "brakes",
+    "part_sku": "bb-70",
+    "brand": "AVID",
+    "part_name": "BB-70",
+    "description": "BB-8's little cousin.",
+    "price": "$170",
+    "avg_rating": 2.2
+  }
+]

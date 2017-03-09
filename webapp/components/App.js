@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, PropTypes } from 'react';
 import { Jumbotron, Button } from 'react-bootstrap';
 import { observer } from 'mobx-react';
 import Header from './Header';
@@ -13,11 +13,15 @@ class App extends Component {
             <div className="container-fluid">
                 <Header />
                 <Builder />
-                <PartsContainer />
+                <PartsContainer partStore={this.props.partStore}/>
                 <DevTools />
             </div>
         );
     }
 }
+
+App.propTypes = {
+    partStore: PropTypes.object
+};
 
 export default App;

@@ -27,6 +27,7 @@ module.exports = {
             { test: /\.(eot)(\?.*$|$)/, loader: 'file?mimetype=application/vnd.ms-fontobject&name=[name].[ext]' },
             { test: /(\.css|\.less)$/, loader: "style!css!less" },
             { test: /\.(jpe?g|png|gif)$/i, loaders: ['file'] },
+            { test: /\.json$/, loader: 'json' },
         ]
     }
 };
