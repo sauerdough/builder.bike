@@ -3,7 +3,8 @@
 @lightgrey: #C8C8C8;
 @darkgrey: #727272;
 @darkblue: #1C304A;
-@lightblue: #5186D5;
+@middleblue: #5186D5;
+@lightblue: #76aaf7;
 @accentorange: #FFBF51;
 
 
@@ -18,5 +19,21 @@
     .bb-logo-text {
       color: @lightgrey;
     }
+  }
+}
+
+.part-container {
+  max-width: 75%;
+
+  .part-card {
+    width: 25%;
+    min-width: 250px;
+    text-overflow: ellipsis;
+    background-color: @lightblue;
+    padding: 25px 2%;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    margin: 25px 3%;
   }
 }

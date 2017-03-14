@@ -1,0 +1,84 @@
+[
+  {
+    "cat_title": "Frame Set",
+    "cat_code": "frameset",
+    "parts": [
+      {
+        "part_title": "Frame",
+        "part_code": "frame"
+      },
+      {
+        "part_title": "Fork",
+        "part_code": "fork"
+      }
+    ]
+  },
+  {
+    "title": "Fork",
+    "code": "fork"
+  },
+  {
+    "title": "Brakeset",
+    "code": "brakeset"
+  },
+  {
+    "title": "Shift Levers",
+    "code": "shifters"
+  },
+  {
+    "title": "Front Derailleur",
+    "code": "front_der"
+  },
+  {
+    "title": "Rear Derailleur",
+    "code": "rear_der"
+  },
+  {
+    "title": "Crankset",
+    "code": "crankset"
+  },
+  {
+    "title": "Pedals",
+    "code": "pedals"
+  },
+  {
+    "title": "Bottom Bracket",
+    "code": "bottom_bracket"
+  },
+  {
+    "title": "Rear Cogs",
+    "code": "rear_cogs"
+  },
+  {
+    "title": "Chain",
+    "code": "chain"
+  },
+  {
+    "title": "Seatpost",
+    "code": "seatpost"
+  },
+  {
+    "title": "Saddle",
+    "code": "saddle"
+  },
+  {
+    "title": "Handlebar",
+    "code": "handlebar"
+  },
+  {
+    "title": "Handlebar Stem",
+    "code": "stem"
+  },
+  {
+    "title": "Headset",
+    "code": "headset"
+  },
+  {
+    "title": "Wheels",
+    "code": "wheals"
+  },
+  {
+    "title": "Tires",
+    "code": "tires"
+  }
+]
